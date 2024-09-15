@@ -41,11 +41,11 @@ public class Uniontwoarrays {
     }
 
     public static void main(String[] args) {
-        int a[] = { 1, 2, 3, 4, 5, 6 };
-        int b[] = { 2, 6, 7, 8, 9 };
-        int c[] = sortedUnion(a, b);
-        for (int i : c) {
-            System.out.println(i);
-        }
+     //   int a[] = { 1, 2, 3, 4, 5, 6 };
+     //   int b[] = { 2, 6, 7, 8, 9 };
+     //   int c[] = sortedUnion(a, b);
+     //   for (int i : c) {
+      //      System.out.println(i);
+      //  }
     }
 }
